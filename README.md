@@ -10,7 +10,7 @@ The `notdiamond` marketplace at the repository root holds one plugin, `connector
 
 ## More connectors
 
-The `notdiamond-connectors` marketplace under `catalog/` holds one plugin per connector, 89 in all. They are offered under Customize → Discover, and each one you install adds its connector.
+The `notdiamond-connectors` marketplace under `catalog/` holds one plugin per connector, 89 in all. They are offered under Customize → Plugins → Discover, and each one you install adds its connector.
 
 ## Signing in
 
