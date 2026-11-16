@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "BoardWise": {
+      "type": "http",
+      "url": "https://uakozrqrztgrgwoywxkx.supabase.co/functions/v1/mcp-server"
+    }
+  }
+}

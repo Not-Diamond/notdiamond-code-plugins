@@ -1,0 +1,8 @@
+{
+  "name": "npi-registry",
+  "version": "1.0.0",
+  "description": "Access US National Provider Identifier (NPI) Registry. No sign-in needed.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

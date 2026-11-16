@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bioRxiv": {
+      "type": "http",
+      "url": "https://hcls.mcp.claude.com/biorxiv/mcp"
+    }
+  }
+}

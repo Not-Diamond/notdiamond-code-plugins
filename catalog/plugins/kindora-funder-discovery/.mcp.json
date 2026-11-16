@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Kindora-Funder-Discovery": {
+      "type": "http",
+      "url": "https://kindora-mcp.azurewebsites.net/mcp/"
+    }
+  }
+}

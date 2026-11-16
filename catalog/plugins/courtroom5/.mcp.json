@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Courtroom5": {
+      "type": "http",
+      "url": "https://mcp.courtroom5.com/v1"
+    }
+  }
+}

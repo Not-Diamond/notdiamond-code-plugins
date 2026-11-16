@@ -23,6 +23,16 @@
       "description": "The Airwallex Developer Model Context Protocol (MCP) server helps developers to easily integrate with Airwallex capabilities by bringing Airwallex documentation, API references, and sandbox testing tools directly to Claude. Enjoy…"
     },
     {
+      "name": "aiwyn-tax-formerly-column-tax",
+      "source": "./plugins/aiwyn-tax-formerly-column-tax",
+      "description": "Estimate your federal & state taxes with Aiwyn's tax engine. No sign-in needed."
+    },
+    {
+      "name": "alltrails",
+      "source": "./plugins/alltrails",
+      "description": "Find your next hike. No sign-in needed."
+    },
+    {
       "name": "alma",
       "source": "./plugins/alma",
       "description": "Alma is an AI nutrition coach that tracks what you eat, monitors 25+ micronutrients per meal, and scores your diet quality in real time using Harvard's Alternate Healthy Eating Index. Connect Alma to Claude and your full nutrition…"
@@ -38,9 +48,29 @@
       "description": "Aurora is a read-only connector that puts your Consilio engagement, document, and other data at Claude's fingertips. Ask Claude to find a matter by client or alpha-code, list the workspaces inside it, run a full-text search across…"
     },
     {
+      "name": "aws-marketplace",
+      "source": "./plugins/aws-marketplace",
+      "description": "Discover, evaluate, and buy solutions for the cloud. No sign-in needed."
+    },
+    {
+      "name": "biorxiv",
+      "source": "./plugins/biorxiv",
+      "description": "Access bioRxiv and medRxiv preprint data. No sign-in needed."
+    },
+    {
       "name": "bitly",
       "source": "./plugins/bitly",
       "description": "Create, track, and manage Bitly links and QR Codes directly from Claude without switching contexts. Access 27 comprehensive tools spanning link creation, analytics, organizational management, and more—making this the most complete link…"
+    },
+    {
+      "name": "blockscout",
+      "source": "./plugins/blockscout",
+      "description": "Access and analyze blockchain data. No sign-in needed."
+    },
+    {
+      "name": "boardwise",
+      "source": "./plugins/boardwise",
+      "description": "Calm board-defense guidance for licensed pros. No sign-in needed."
     },
     {
       "name": "carta",
@@ -58,6 +88,11 @@
       "description": "Connect Claude to read, write, and act on 350+ enterprise data sources like Salesforce, Snowflake and NetSuite in real-time through one fully hosted remote MCP server. Connect AI is the only managed MCP platform built with semantic…"
     },
     {
+      "name": "chembl",
+      "source": "./plugins/chembl",
+      "description": "Access the ChEMBL Database. No sign-in needed."
+    },
+    {
       "name": "chronograph",
       "source": "./plugins/chronograph",
       "description": "The Chronograph MCP server allows users to query portfolio data, analyze investments, search for entities, retrieve performance metrics, and access Chronograph's help documentation. The connector is designed for private investment…"
@@ -66,6 +101,11 @@
       "name": "clarify",
       "source": "./plugins/clarify",
       "description": "Retrieve, create, and update records using natural language. Analyze your sales pipeline, create tasks and lists automatically, and generate insights—all through conversation. Query deals, companies, people, and meetings without…"
+    },
+    {
+      "name": "clarity-ai",
+      "source": "./plugins/clarity-ai",
+      "description": "Simulate fund classifications under proposed SFDR 2.0. No sign-in needed."
     },
     {
       "name": "clay",
@@ -78,9 +118,19 @@
       "description": "Add Clerk authentication to your app directly through Claude. Access up-to-date SDK snippets and implementation patterns for sign-in flows, session management, and route protection. Build multi-tenant B2B apps with organizations and…"
     },
     {
+      "name": "clinical-trials",
+      "source": "./plugins/clinical-trials",
+      "description": "Access ClinicalTrials.gov data. No sign-in needed."
+    },
+    {
       "name": "cloudinary",
       "source": "./plugins/cloudinary",
       "description": "The Cloudinary MCP servers enable you to upload, manage, transform, and analyze your media assets."
+    },
+    {
+      "name": "cms-coverage",
+      "source": "./plugins/cms-coverage",
+      "description": "Access the CMS Coverage Database. No sign-in needed."
     },
     {
       "name": "common-room",
@@ -98,9 +148,19 @@
       "description": "Connects Claude to CourtListener, the Free Law Project's legal research platform, with access to millions of U.S. court opinions, PACER dockets, judge profiles, oral arguments, and citation data. Search case law across federal and state…"
     },
     {
+      "name": "courtroom5",
+      "source": "./plugins/courtroom5",
+      "description": "Civil legal guidance for self-represented litigants. No sign-in needed."
+    },
+    {
       "name": "craft",
       "source": "./plugins/craft",
       "description": "Create beautifully structured documents, manage tasks, and build a personal knowledge base - all directly from Claude. Give Claude a persistent workspace to save research, draft content, track to-dos, and organize everything into…"
+    },
+    {
+      "name": "crypto-com",
+      "source": "./plugins/crypto-com",
+      "description": "Real time prices, orders, charts, and more for crypto. No sign-in needed."
     },
     {
       "name": "daloopa",
@@ -123,6 +183,11 @@
       "description": "Descript is a video editor you can direct through conversation. Describe what you want — clean up a podcast episode, pull highlight clips from an interview or translate a video into Spanish. Descript handles the end-to-end production:…"
     },
     {
+      "name": "dice",
+      "source": "./plugins/dice",
+      "description": "Find active tech jobs on Dice. No sign-in needed."
+    },
+    {
       "name": "egnyte",
       "source": "./plugins/egnyte",
       "description": "Egnyte MCP server enables AI agents to securely search, retrieve, and analyze content stored in any Egnyte domain. It wraps Egnyte’s public APIs and enforces native permissions, compliance rules, and audit logging."
@@ -141,6 +206,11 @@
       "name": "euler",
       "source": "./plugins/euler",
       "description": "Chat with your entire partner program directly within Claude — instant answers on deals, commissions, onboarding, and partner performance, no dashboard required. Pull live data across your pipeline, invoices, certifications, and…"
+    },
+    {
+      "name": "excalidraw",
+      "source": "./plugins/excalidraw",
+      "description": "MCP for creating interactive hand-drawn diagrams in Excalidraw. No sign-in needed."
     },
     {
       "name": "factset-ai-ready-data",
@@ -163,9 +233,24 @@
       "description": "Bring in live customer intelligence from Gainsight's Staircase AI including customer sentiment, risk, engagement and insights - so every answer, insight, and recommendation is grounded in real customer context."
     },
     {
+      "name": "godaddy",
+      "source": "./plugins/godaddy",
+      "description": "Search domains and check availability. No sign-in needed."
+    },
+    {
+      "name": "goodnotes",
+      "source": "./plugins/goodnotes",
+      "description": "Turn AI insights into documents. No sign-in needed."
+    },
+    {
       "name": "grain",
       "source": "./plugins/grain",
       "description": "Grain captures and transcribes your meetings where you have them: Meet, Zoom, Teams, Slack, and more. Grain builds an AI Meeting Data Layer of transcripts, notes, and enriched context that Claude uses to power your work. Example…"
+    },
+    {
+      "name": "granted",
+      "source": "./plugins/granted",
+      "description": "Discover every grant opportunity in existence. No sign-in needed."
     },
     {
       "name": "guru",
@@ -176,6 +261,11 @@
       "name": "harmonic",
       "source": "./plugins/harmonic",
       "description": "Search, enrich, and research startups and companies using Harmonic's proprietary data on millions of companies and the people behind them. Get detailed company profiles with funding, location, founders, and network connections. Use…"
+    },
+    {
+      "name": "icd-10-codes",
+      "source": "./plugins/icd-10-codes",
+      "description": "Access ICD-10-CM and ICD-10-PCS code sets. No sign-in needed."
     },
     {
       "name": "intuit-mailchimp",
@@ -196,6 +286,16 @@
       "name": "ketryx",
       "source": "./plugins/ketryx",
       "description": "Ketryx MCP gives your AI tools direct access to your unified compliance data. Ask a compliance question and get instant, auditable answers across your entire toolchain: Jira, JAMA, GitHub, TestRail, Polarion, and Azure DevOps."
+    },
+    {
+      "name": "kindora-funder-discovery",
+      "source": "./plugins/kindora-funder-discovery",
+      "description": "Find funders who support causes like yours. No sign-in needed."
+    },
+    {
+      "name": "kiwi-com",
+      "source": "./plugins/kiwi-com",
+      "description": "Search flights in Claude. No sign-in needed."
     },
     {
       "name": "klaviyo",
@@ -248,6 +348,11 @@
       "description": "Connect Claude with MailerLite to create your very own email assistant. Use it to build email, analyze campaign performance, manage subscribers, and more, all with natural language prompts."
     },
     {
+      "name": "malwarebytes",
+      "source": "./plugins/malwarebytes",
+      "description": "Check links, phones, and emails for scams. No sign-in needed."
+    },
+    {
       "name": "medidata",
       "source": "./plugins/medidata",
       "description": "Medidata's MCP Connector for Claude provides two tools for Medidata users: Platform Help and Predictive Site Ranking.   Platform Help allows users to query Medidata's platform documentation for answers about products like Rave EDC, Data…"
@@ -263,6 +368,11 @@
       "description": "Check your balance, download statements, search/analyze/graph transactions, and understand Cards directly from Claude. Mercury brings your finances into your AI tools"
     },
     {
+      "name": "mermaid-chart",
+      "source": "./plugins/mermaid-chart",
+      "description": "Validates Mermaid syntax, renders diagrams as high-quality SVG, and displays them instantly in an interactive UI where users can preview, zoom, and iterate in real time. No sign-in needed."
+    },
+    {
       "name": "metaview",
       "source": "./plugins/metaview",
       "description": "Bring Metaview's hiring intelligence into Claude. Search, analyze, and extract insights from your recruiting data. Query conversations, source candidates, and start outreach. Use Claude alongside Metaview's AI agents to turn every…"
@@ -271,6 +381,11 @@
       "name": "microsoft-365",
       "source": "./plugins/microsoft-365",
       "description": "Access SharePoint, OneDrive, Outlook, and Teams directly in Claude. Search and analyze documents across sites and libraries, review email threads and communications, and extract insights from calendar and chat data. Make Microsoft 365 a…"
+    },
+    {
+      "name": "microsoft-learn",
+      "source": "./plugins/microsoft-learn",
+      "description": "Search trusted Microsoft docs to power your development. No sign-in needed."
     },
     {
       "name": "mintlify",
@@ -288,9 +403,29 @@
       "description": "The Monte Carlo MCP server gives Claude direct access to your data & AI observability platform. Query alerts, explore lineage, create monitors, and evaluate AI agent performance across your entire data stack."
     },
     {
+      "name": "mospi",
+      "source": "./plugins/mospi",
+      "description": "India's official statistics via natural language. No sign-in needed."
+    },
+    {
       "name": "mt-newswires",
       "source": "./plugins/mt-newswires",
       "description": "MT Newswires' MCP server delivers real-time, low-latency financial news across equities, fixed income, commodities, FX, and macroeconomics. Structured and machine-readable, it integrates seamlessly into AI, trading, and analytics…"
+    },
+    {
+      "name": "npi-registry",
+      "source": "./plugins/npi-registry",
+      "description": "Access US National Provider Identifier (NPI) Registry. No sign-in needed."
+    },
+    {
+      "name": "open-targets",
+      "source": "./plugins/open-targets",
+      "description": "Drug target discovery and prioritisation platform. No sign-in needed."
+    },
+    {
+      "name": "order-by-cash-app",
+      "source": "./plugins/order-by-cash-app",
+      "description": "Discover local food spots and order with a conversation. No sign-in needed."
     },
     {
       "name": "orion-by-gravity",
@@ -318,6 +453,11 @@
       "description": "Monitor and analyze your brand's visibility across AI search engines. Track your visibility, sentiment, and share of voice and compare to competitors."
     },
     {
+      "name": "pg-aiguide",
+      "source": "./plugins/pg-aiguide",
+      "description": "Search pg and Tiger docs, learn database skills. No sign-in needed."
+    },
+    {
       "name": "planetscale",
       "source": "./plugins/planetscale",
       "description": "Access to your PlanetScale organizations, databases, branches, schema, and Insights data."
@@ -326,6 +466,11 @@
       "name": "polar-analytics",
       "source": "./plugins/polar-analytics",
       "description": "Polar is the trusted data layer for commerce brands. Connect your Shopify, Meta, Google, Klaviyo, and 45+ other data sources into a unified semantic layer with validated metrics, custom business rules, and cross-platform attribution.…"
+    },
+    {
+      "name": "pubmed",
+      "source": "./plugins/pubmed",
+      "description": "Search biomedical literature from PubMed. No sign-in needed."
     },
     {
       "name": "pylon",
@@ -398,6 +543,11 @@
       "description": "Discover and explore scientific datasets from collaborative research projects. Search Synapse for genomics, imaging, clinical data on cancer, neurodegenerative diseases, rare diseases, and more. Navigate project hierarchies and get…"
     },
     {
+      "name": "taskrabbit-booking-assistance",
+      "source": "./plugins/taskrabbit-booking-assistance",
+      "description": "Find & book local Taskrabbit services near you. No sign-in needed."
+    },
+    {
       "name": "thoughtspot-spotter",
       "source": "./plugins/thoughtspot-spotter",
       "description": "From everyday data questions to high-level strategic analyses, Spotter by ThoughtSpot helps business and data teams get answers and insights they can trust, validate, and act on, enabling everyone to use data to drive the business forward."
@@ -406,6 +556,11 @@
       "name": "ticket-tailor",
       "source": "./plugins/ticket-tailor",
       "description": "Provides event organisers with tools to interact with a Ticket Tailor box office account. It covers nearly every aspect of event ticketing: from event creation and ticket issuing, to managing orders, discounts, products, and more."
+    },
+    {
+      "name": "tldraw",
+      "source": "./plugins/tldraw",
+      "description": "Let Claude sketch, draw, and diagram with you. No sign-in needed."
     },
     {
       "name": "tldv",
@@ -418,6 +573,11 @@
       "description": "Allow Claude to assist you in managing your productivity and time blocking, by searching your current tasks, completing them, and general management of tasks in Todoist."
     },
     {
+      "name": "trivago",
+      "source": "./plugins/trivago",
+      "description": "Find your ideal hotel at the best price. No sign-in needed."
+    },
+    {
       "name": "tropic",
       "source": "./plugins/tropic",
       "description": "Software + AI pricing isn't public, so searching the internet won't tell you if you're overpaying. Tropic will. Connect Tropic to Claude to benchmark your pricing against $18B+ in verified technology transactions."
@@ -426,6 +586,16 @@
       "name": "turkish-airlines",
       "source": "./plugins/turkish-airlines",
       "description": "The official Turkish Airlines MCP App. Search and compare flights, check live status, look up booking details and baggage allowance, browse city guides, and discover promotions — all directly inside Claude."
+    },
+    {
+      "name": "twilio",
+      "source": "./plugins/twilio",
+      "description": "Build powerful communications and customer engagement. No sign-in needed."
+    },
+    {
+      "name": "viator",
+      "source": "./plugins/viator",
+      "description": "Book travel experiences around the world. No sign-in needed."
     },
     {
       "name": "vibe-prospecting",
@@ -446,6 +616,11 @@
       "name": "wix",
       "source": "./plugins/wix",
       "description": "The Wix MCP provides users with the ability to manage their account's websites and apps (Stores, Bookings, Blog etc.). In addition, the MCP also helps devs create new sites using Wix Headless, the Wix Design system and more."
+    },
+    {
+      "name": "wolfram",
+      "source": "./plugins/wolfram",
+      "description": "Inject precise, real-time computation and knowledge. No sign-in needed."
     },
     {
       "name": "zocks",

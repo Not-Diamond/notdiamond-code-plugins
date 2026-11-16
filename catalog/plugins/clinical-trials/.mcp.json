@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Clinical-Trials": {
+      "type": "http",
+      "url": "https://hcls.mcp.claude.com/clinical_trials/mcp"
+    }
+  }
+}

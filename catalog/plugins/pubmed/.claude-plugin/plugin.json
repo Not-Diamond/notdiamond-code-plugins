@@ -1,0 +1,8 @@
+{
+  "name": "pubmed",
+  "version": "1.0.0",
+  "description": "Search biomedical literature from PubMed. No sign-in needed.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Aiwyn-Tax-formerly-Column-Tax": {
+      "type": "http",
+      "url": "https://mcp.columnapi.com/mcp"
+    }
+  }
+}

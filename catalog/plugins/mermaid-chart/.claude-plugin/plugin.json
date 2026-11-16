@@ -1,0 +1,8 @@
+{
+  "name": "mermaid-chart",
+  "version": "1.0.0",
+  "description": "Validates Mermaid syntax, renders diagrams as high-quality SVG, and displays them instantly in an interactive UI where users can preview, zoom, and iterate in real time. No sign-in needed.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}
