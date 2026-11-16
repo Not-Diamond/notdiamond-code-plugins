@@ -1,0 +1,8 @@
+{
+  "name": "excalidraw",
+  "version": "1.0.0",
+  "description": "MCP for creating interactive hand-drawn diagrams in Excalidraw. No sign-in needed.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

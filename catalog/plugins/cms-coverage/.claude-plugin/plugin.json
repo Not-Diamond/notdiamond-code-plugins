@@ -1,0 +1,8 @@
+{
+  "name": "cms-coverage",
+  "version": "1.0.0",
+  "description": "Access the CMS Coverage Database. No sign-in needed.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

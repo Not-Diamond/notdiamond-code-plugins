@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ICD-10-Codes": {
+      "type": "http",
+      "url": "https://hcls.mcp.claude.com/icd10_codes/mcp"
+    }
+  }
+}

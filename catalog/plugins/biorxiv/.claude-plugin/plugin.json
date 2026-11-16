@@ -1,0 +1,8 @@
+{
+  "name": "biorxiv",
+  "version": "1.0.0",
+  "description": "Access bioRxiv and medRxiv preprint data. No sign-in needed.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

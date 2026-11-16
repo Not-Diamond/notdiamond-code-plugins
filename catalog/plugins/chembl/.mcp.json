@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ChEMBL": {
+      "type": "http",
+      "url": "https://hcls.mcp.claude.com/chembl/mcp"
+    }
+  }
+}

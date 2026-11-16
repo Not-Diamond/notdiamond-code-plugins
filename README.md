@@ -10,7 +10,7 @@ The `notdiamond` marketplace at the repository root holds one plugin, `connector
 
 ## More connectors
 
-The `notdiamond-connectors` marketplace under `catalog/` holds one plugin per connector, 89 in all. They are offered under Customize → Plugins → Discover, and each one you install adds its connector.
+The `notdiamond-connectors` marketplace under `catalog/` holds one plugin per connector, 124 in all. They are offered under Customize → Plugins → Discover, and each one you install adds its connector. 35 of them need no sign-in and work as soon as they are installed.
 
 ## Signing in
 
@@ -18,4 +18,4 @@ Open Customize from Cowork to connect a connector. The Connect button is disable
 
 ## Which connectors are listed
 
-A connector is listed when its server lets Claude Desktop register itself for sign-in, accepts the callback address Claude Desktop uses for plugin connectors, and returns the vendor's sign-in page. A listing does not guarantee that the vendor completes the sign-in.
+A connector that needs sign-in is listed when its server lets Claude Desktop register itself for sign-in, accepts the callback address Claude Desktop uses for plugin connectors, and returns the vendor's sign-in page. A listing does not guarantee that the vendor completes the sign-in. A connector that needs no sign-in is listed when its server returns its tools to an unauthenticated request.

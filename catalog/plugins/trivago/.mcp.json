@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Trivago": {
+      "type": "http",
+      "url": "https://mcp.trivago.com/mcp"
+    }
+  }
+}

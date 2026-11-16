@@ -1,0 +1,8 @@
+{
+  "name": "aiwyn-tax-formerly-column-tax",
+  "version": "1.0.0",
+  "description": "Estimate your federal & state taxes with Aiwyn's tax engine. No sign-in needed.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}
