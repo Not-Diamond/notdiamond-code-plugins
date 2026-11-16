@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Outreach": {
-      "type": "http",
-      "url": "https://api.outreach.io/mcp/"
-    }
-  }
-}

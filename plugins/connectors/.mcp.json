@@ -1,60 +1,164 @@
 {
   "mcpServers": {
-    "Linear": {
+    "Apollo.io": {
       "type": "http",
-      "url": "https://mcp.linear.app/mcp"
-    },
-    "Notion": {
-      "type": "http",
-      "url": "https://mcp.notion.com/mcp"
+      "url": "https://mcp.apollo.io/mcp"
     },
     "Atlassian": {
       "type": "http",
       "url": "https://mcp.atlassian.com/v1/mcp"
     },
-    "Sentry": {
-      "type": "http",
-      "url": "https://mcp.sentry.dev/mcp"
-    },
-    "Intercom": {
-      "type": "http",
-      "url": "https://mcp.intercom.com/mcp"
-    },
-    "PostHog": {
-      "type": "http",
-      "url": "https://mcp.posthog.com/mcp"
-    },
-    "Stripe": {
-      "type": "http",
-      "url": "https://mcp.stripe.com"
-    },
     "Attio": {
       "type": "http",
       "url": "https://mcp.attio.com/mcp"
     },
-    "Supabase": {
+    "Clay": {
       "type": "http",
-      "url": "https://mcp.supabase.com/mcp"
+      "url": "https://api.clay.com/v3/mcp"
     },
-    "Netlify": {
+    "Clerk": {
       "type": "http",
-      "url": "https://netlify-mcp.netlify.app/mcp"
+      "url": "https://mcp.clerk.com/mcp"
     },
     "ClickUp": {
       "type": "http",
       "url": "https://mcp.clickup.com/mcp"
     },
-    "Miro": {
+    "Cloudinary": {
       "type": "http",
-      "url": "https://mcp.miro.com/"
+      "url": "https://asset-management.mcp.cloudinary.com/sse"
+    },
+    "Common-Room": {
+      "type": "http",
+      "url": "https://mcp.commonroom.io/mcp"
+    },
+    "Craft": {
+      "type": "http",
+      "url": "https://mcp.craft.do/my/mcp"
+    },
+    "Egnyte": {
+      "type": "http",
+      "url": "https://mcp-server.egnyte.com/mcp"
+    },
+    "Fathom": {
+      "type": "http",
+      "url": "https://api.fathom.ai/mcp"
+    },
+    "Guru": {
+      "type": "http",
+      "url": "https://mcp.api.getguru.com/mcp"
     },
     "Hugging-Face": {
       "type": "http",
       "url": "https://huggingface.co/mcp?login&gradio=none"
     },
+    "Intercom": {
+      "type": "http",
+      "url": "https://mcp.intercom.com/mcp"
+    },
+    "Jam": {
+      "type": "http",
+      "url": "https://mcp.jam.dev/mcp"
+    },
+    "Klaviyo": {
+      "type": "http",
+      "url": "https://mcp.klaviyo.com/mcp?include-mcp-app=true"
+    },
+    "Linear": {
+      "type": "http",
+      "url": "https://mcp.linear.app/mcp"
+    },
+    "Lucid": {
+      "type": "http",
+      "url": "https://mcp.lucid.app/mcp"
+    },
+    "Mailchimp": {
+      "type": "http",
+      "url": "https://ai-inc.mailchimp.com/claude/mcp/v2"
+    },
+    "Mercury": {
+      "type": "http",
+      "url": "https://mcp.mercury.com/mcp"
+    },
+    "Microsoft-365": {
+      "type": "http",
+      "url": "https://microsoft365.mcp.claude.com/mcp"
+    },
+    "Mintlify": {
+      "type": "http",
+      "url": "https://mcp.mintlify.com"
+    },
+    "Miro": {
+      "type": "http",
+      "url": "https://mcp.miro.com/"
+    },
+    "Mixpanel": {
+      "type": "http",
+      "url": "https://mcp.mixpanel.com/mcp"
+    },
+    "Monte-Carlo": {
+      "type": "http",
+      "url": "https://mcp.getmontecarlo.com/mcp"
+    },
+    "Netlify": {
+      "type": "http",
+      "url": "https://netlify-mcp.netlify.app/mcp"
+    },
+    "Notion": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    },
+    "Otter.ai": {
+      "type": "http",
+      "url": "https://mcp.otter.ai/mcp"
+    },
+    "Outreach": {
+      "type": "http",
+      "url": "https://api.outreach.io/mcp/"
+    },
+    "PlanetScale": {
+      "type": "http",
+      "url": "https://mcp.pscale.dev/mcp/planetscale"
+    },
+    "PostHog": {
+      "type": "http",
+      "url": "https://mcp.posthog.com/mcp"
+    },
     "Postman": {
       "type": "http",
       "url": "https://mcp.postman.com/minimal"
+    },
+    "Pylon": {
+      "type": "http",
+      "url": "https://mcp.usepylon.com/"
+    },
+    "Ramp": {
+      "type": "http",
+      "url": "https://ramp-mcp-remote.ramp.com/mcp"
+    },
+    "Sanity": {
+      "type": "http",
+      "url": "https://mcp.sanity.io"
+    },
+    "Sentry": {
+      "type": "http",
+      "url": "https://mcp.sentry.dev/mcp"
+    },
+    "Stripe": {
+      "type": "http",
+      "url": "https://mcp.stripe.com"
+    },
+    "Supabase": {
+      "type": "http",
+      "url": "https://mcp.supabase.com/mcp"
+    },
+    "Todoist": {
+      "type": "http",
+      "url": "https://ai.todoist.net/mcp"
+    },
+    "Webflow": {
+      "type": "http",
+      "url": "https://mcp.webflow.com/mcp"
     }
   }
 }

@@ -1,8 +1,0 @@
-{
-  "name": "ramp",
-  "version": "1.0.0",
-  "description": "Enables secure, read-only access to Ramp data for customer-defined logic. Supports loading and querying transactions, reimbursements, bills, purchase orders, cards, vendors, and more, enabling dynamic data fetching and analysis via Claude.",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

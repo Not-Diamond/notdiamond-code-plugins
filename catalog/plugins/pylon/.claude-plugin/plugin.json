@@ -1,8 +1,0 @@
-{
-  "name": "pylon",
-  "version": "1.0.0",
-  "description": "Access Pylon's customer support platform directly from Claude to search, manage, and resolve customer issues. Stay on top of your support queue while connecting Claude's insights to real customer conversations.",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

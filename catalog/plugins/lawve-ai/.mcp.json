@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Lawve-AI": {
-      "type": "http",
-      "url": "https://mcp.lawve.ai/mcp"
-    }
-  }
-}

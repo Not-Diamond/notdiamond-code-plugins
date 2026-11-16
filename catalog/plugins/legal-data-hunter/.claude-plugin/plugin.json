@@ -1,8 +1,0 @@
-{
-  "name": "legal-data-hunter",
-  "version": "1.0.0",
-  "description": "Legal Data Hunter is trying to build the world's first omni-jurisdictional legal database, giving Claude access to 23M+ documents from 160+ jurisdictions in one MCP server. We ingest directly from official registries : Légifrance,…",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

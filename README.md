@@ -1,17 +1,17 @@
 # Not Diamond Code plugins
 
-Plugin marketplaces for Claude Desktop running on Not Diamond Code. `notdiamond desktop setup` adds both.
+A plugin marketplace for Claude Desktop running on Not Diamond Code. `notdiamond desktop setup` adds it, and Claude Desktop installs its plugin automatically.
 
-Every connector points at the vendor's own MCP server. Sign-in happens with the vendor, and this repository holds no credentials.
+## connectors
 
-## Default connectors
+Lists 40 hosted connectors under Customize → Connectors, for you to sign in to the ones you use:
 
-The `notdiamond` marketplace at the repository root holds one plugin, `connectors`, which Claude Desktop installs automatically. It lists Linear, Notion, Atlassian, Sentry, Intercom, PostHog, Stripe, Attio, Supabase, Netlify, ClickUp, Miro, Hugging Face and Postman under Customize → Connectors.
+Apollo.io, Atlassian, Attio, Clay, Clerk, ClickUp, Cloudinary, Common Room, Craft, Egnyte, Fathom, Guru, Hugging Face, Intercom, Jam, Klaviyo, Linear, Lucid, Mailchimp, Mercury, Microsoft 365, Mintlify, Miro, Mixpanel, Monte Carlo, Netlify, Notion, Otter.ai, Outreach, PlanetScale, PostHog, Postman, Pylon, Ramp, Sanity, Sentry, Stripe, Supabase, Todoist, Webflow.
 
-## More connectors
-
-The `notdiamond-connectors` marketplace under `catalog/` holds one plugin per connector, 89 in all. They are offered under Customize → Discover, and each one you install adds its connector.
+Each connector points at the vendor's own MCP server. Sign-in happens with the vendor, and this repository holds no credentials.
 
 ## Which connectors are listed
 
 A connector is listed when its server lets Claude Desktop register itself for sign-in and returns the vendor's sign-in page. A listing does not guarantee that the vendor completes the sign-in.
+
+Claude Desktop offers sign-in only for connectors in a plugin its configuration installs. A connector from a plugin you add yourself under Customize → Discover cannot be connected, so every connector here ships in the one installed plugin.

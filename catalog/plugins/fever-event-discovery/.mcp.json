@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Fever-Event-Discovery": {
-      "type": "http",
-      "url": "https://data-search.apigw.feverup.com/mcp"
-    }
-  }
-}

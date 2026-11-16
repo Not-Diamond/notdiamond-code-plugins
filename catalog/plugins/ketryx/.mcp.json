@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Ketryx": {
-      "type": "http",
-      "url": "https://app.ketryx.com/api/mcp"
-    }
-  }
-}

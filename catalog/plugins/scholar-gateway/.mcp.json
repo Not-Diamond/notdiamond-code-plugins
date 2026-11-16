@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Scholar-Gateway": {
-      "type": "http",
-      "url": "https://connector.scholargateway.ai/mcp"
-    }
-  }
-}

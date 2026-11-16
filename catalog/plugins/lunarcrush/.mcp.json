@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "LunarCrush": {
-      "type": "http",
-      "url": "https://lunarcrush.ai/mcp"
-    }
-  }
-}

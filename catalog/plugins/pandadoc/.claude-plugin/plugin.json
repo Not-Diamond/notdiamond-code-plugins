@@ -1,8 +1,0 @@
-{
-  "name": "pandadoc",
-  "version": "1.0.0",
-  "description": "PandaDoc lets you create, send, and track documents for signature directly from your Claude conversation. Ask Claude to prepare an NDA from your existing templates, send a proposal to a client, check which contracts are still waiting to…",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

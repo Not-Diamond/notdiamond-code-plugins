@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Euler": {
-      "type": "http",
-      "url": "https://mcp.eulerapp.com/mcp"
-    }
-  }
-}

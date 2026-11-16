@@ -1,8 +1,0 @@
-{
-  "name": "clerk",
-  "version": "1.0.0",
-  "description": "Add Clerk authentication to your app directly through Claude. Access up-to-date SDK snippets and implementation patterns for sign-in flows, session management, and route protection. Build multi-tenant B2B apps with organizations and…",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

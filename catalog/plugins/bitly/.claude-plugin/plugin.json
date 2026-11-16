@@ -1,8 +1,0 @@
-{
-  "name": "bitly",
-  "version": "1.0.0",
-  "description": "Create, track, and manage Bitly links and QR Codes directly from Claude without switching contexts. Access 27 comprehensive tools spanning link creation, analytics, organizational management, and more—making this the most complete link…",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

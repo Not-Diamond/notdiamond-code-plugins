@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Windsor.ai": {
-      "type": "http",
-      "url": "https://mcp.windsor.ai"
-    }
-  }
-}

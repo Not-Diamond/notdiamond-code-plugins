@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Monte-Carlo": {
-      "type": "http",
-      "url": "https://mcp.getmontecarlo.com/mcp"
-    }
-  }
-}

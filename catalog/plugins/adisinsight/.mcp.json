@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "AdisInsight": {
-      "type": "http",
-      "url": "https://adisinsight-mcp.springer.com/mcp"
-    }
-  }
-}

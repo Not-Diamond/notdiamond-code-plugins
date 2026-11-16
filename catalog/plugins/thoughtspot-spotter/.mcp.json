@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "ThoughtSpot-Spotter": {
-      "type": "http",
-      "url": "https://agent.thoughtspot.app/mcp?api-version=latest"
-    }
-  }
-}

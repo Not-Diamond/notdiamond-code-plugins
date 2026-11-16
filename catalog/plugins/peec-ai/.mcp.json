@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Peec-AI": {
-      "type": "http",
-      "url": "https://api.peec.ai/mcp"
-    }
-  }
-}

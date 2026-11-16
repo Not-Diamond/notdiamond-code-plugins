@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Shapes": {
-      "type": "http",
-      "url": "https://mcp.shapes.co/mcp"
-    }
-  }
-}

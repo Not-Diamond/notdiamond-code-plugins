@@ -1,8 +1,0 @@
-{
-  "name": "ticket-tailor",
-  "version": "1.0.0",
-  "description": "Provides event organisers with tools to interact with a Ticket Tailor box office account. It covers nearly every aspect of event ticketing: from event creation and ticket issuing, to managing orders, discounts, products, and more.",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

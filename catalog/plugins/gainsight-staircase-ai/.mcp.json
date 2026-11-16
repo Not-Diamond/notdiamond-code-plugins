@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Gainsight-Staircase-AI": {
-      "type": "http",
-      "url": "https://mcp.staircase.ai/mcp"
-    }
-  }
-}

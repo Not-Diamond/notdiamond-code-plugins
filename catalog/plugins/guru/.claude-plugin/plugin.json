@@ -1,8 +1,0 @@
-{
-  "name": "guru",
-  "version": "1.0.0",
-  "description": "Guru's MCP Server connects Anthropic's Claude to your company's trusted knowledge layer, so every AI answer is grounded in verified, permission-aware information—not outdated docs or hallucinations. It links Claude to the same governed…",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

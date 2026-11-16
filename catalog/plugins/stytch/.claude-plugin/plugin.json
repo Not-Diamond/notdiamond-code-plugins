@@ -1,8 +1,0 @@
-{
-  "name": "stytch",
-  "version": "1.0.0",
-  "description": "The Stytch MCP Server enables AI assistants to programmatically manage your Stytch Project like Redirect URLs, Email Templates, and more.",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

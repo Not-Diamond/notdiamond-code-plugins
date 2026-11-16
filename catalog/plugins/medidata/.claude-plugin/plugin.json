@@ -1,8 +1,0 @@
-{
-  "name": "medidata",
-  "version": "1.0.0",
-  "description": "Medidata's MCP Connector for Claude provides two tools for Medidata users: Platform Help and Predictive Site Ranking.   Platform Help allows users to query Medidata's platform documentation for answers about products like Rave EDC, Data…",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

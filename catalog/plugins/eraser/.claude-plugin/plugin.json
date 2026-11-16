@@ -1,8 +1,0 @@
-{
-  "name": "eraser",
-  "version": "1.0.0",
-  "description": "Generate, create, read, and update diagrams, documents and files in your Eraser workspace directly from Claude. Make Eraser a native part of your AI workflow — describe a system in natural language and have your agent generate a…",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

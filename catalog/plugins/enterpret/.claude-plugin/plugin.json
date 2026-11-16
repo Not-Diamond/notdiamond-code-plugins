@@ -1,8 +1,0 @@
-{
-  "name": "enterpret",
-  "version": "1.0.0",
-  "description": "Turn customer feedback into answers you can act on, directly in Claude. Query your Enterpret knowledge graph across support tickets, Gong calls, app reviews, NPS surveys, Slack, and more. Every insight is traced back to real customer…",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

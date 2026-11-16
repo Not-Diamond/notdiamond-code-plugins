@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Send": {
-      "type": "http",
-      "url": "https://www.send.co/mcp"
-    }
-  }
-}

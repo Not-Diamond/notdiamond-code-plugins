@@ -1,8 +1,0 @@
-{
-  "name": "sanity",
-  "version": "1.0.0",
-  "description": "Create, query, and manage your structured content in Sanity directly from Claude. Run content audits, update documents, coordinate releases, and find anything across your projects. Or set up entirely new projects – schemas, content, and…",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

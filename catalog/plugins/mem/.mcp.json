@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Mem": {
-      "type": "http",
-      "url": "https://mcp.mem.ai/mcp"
-    }
-  }
-}

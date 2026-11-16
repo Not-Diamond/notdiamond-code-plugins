@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "Cloudinary": {
-      "type": "http",
-      "url": "https://asset-management.mcp.cloudinary.com/sse"
-    }
-  }
-}

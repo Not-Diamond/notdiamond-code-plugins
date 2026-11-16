@@ -1,8 +1,0 @@
-{
-  "name": "sybill",
-  "version": "1.0.0",
-  "description": "Sybill is the context layer for your revenue org. Connect it to Claude and ask anything about your sales conversations, deals, and pipeline grounded in real call transcripts, AI-generated summaries, MEDDIC scores, and CRM data. Surface…",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

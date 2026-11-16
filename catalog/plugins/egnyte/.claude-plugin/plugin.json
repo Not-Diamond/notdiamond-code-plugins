@@ -1,8 +1,0 @@
-{
-  "name": "egnyte",
-  "version": "1.0.0",
-  "description": "Egnyte MCP server enables AI agents to securely search, retrieve, and analyze content stored in any Egnyte domain. It wraps Egnyte’s public APIs and enforces native permissions, compliance rules, and audit logging.",
-  "author": {
-    "name": "Not Diamond"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "name": "scholar-gateway",
-  "version": "1.0.0",
-  "description": "Scholar Gateway enables Claude to generate responses grounded in peer-reviewed sources with verifiable citations and DOI links. The Scholar Gateway Connector searches current literature from Wiley journals and research databases to…",
-  "author": {
-    "name": "Not Diamond"
-  }
-}
