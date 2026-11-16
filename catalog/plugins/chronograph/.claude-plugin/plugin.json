@@ -1,0 +1,8 @@
+{
+  "name": "chronograph",
+  "version": "1.0.0",
+  "description": "The Chronograph MCP server allows users to query portfolio data, analyze investments, search for entities, retrieve performance metrics, and access Chronograph's help documentation. The connector is designed for private investment…",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

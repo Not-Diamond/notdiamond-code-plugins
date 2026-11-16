@@ -1,0 +1,8 @@
+{
+  "name": "s-p-global",
+  "version": "1.0.0",
+  "description": "Use natural language to query a range of S&P Global datasets, including S&P Capital IQ Financials, S&P Capital IQ Estimates, Company Intelligence, Private Company Financials, transactions, transcripts, and more. Designed for…",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

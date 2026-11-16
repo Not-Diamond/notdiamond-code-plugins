@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Sybill": {
+      "type": "http",
+      "url": "https://mcp.sybill.ai/mcp"
+    }
+  }
+}

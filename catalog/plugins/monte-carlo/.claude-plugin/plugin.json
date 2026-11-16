@@ -1,0 +1,8 @@
+{
+  "name": "monte-carlo",
+  "version": "1.0.0",
+  "description": "The Monte Carlo MCP server gives Claude direct access to your data & AI observability platform. Query alerts, explore lineage, create monitors, and evaluate AI agent performance across your entire data stack.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

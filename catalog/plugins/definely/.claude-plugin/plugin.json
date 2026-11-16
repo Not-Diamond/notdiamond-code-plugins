@@ -1,0 +1,8 @@
+{
+  "name": "definely",
+  "version": "1.0.0",
+  "description": "Definely's MCP server gives AI assistants live, deterministic access to contract structure. Resolve definitions, validate cross‑references, map dependencies, and run structural diffs to see how edits propagate across an agreement. Use…",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

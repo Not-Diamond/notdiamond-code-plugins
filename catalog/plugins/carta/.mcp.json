@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Carta": {
+      "type": "http",
+      "url": "https://mcp.app.carta.com/mcp"
+    }
+  }
+}

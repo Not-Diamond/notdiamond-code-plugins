@@ -3,14 +3,14 @@
   "owner": {
     "name": "Not Diamond"
   },
+  "metadata": {
+    "description": "Default connectors for Claude Desktop running on Not Diamond Code."
+  },
   "plugins": [
     {
       "name": "connectors",
       "source": "./plugins/connectors",
-      "description": "Common hosted connectors: Linear, Notion, Atlassian and others. Sign in to the ones you use."
+      "description": "Common hosted connectors: Linear, Notion, Atlassian, Sentry, Intercom, PostHog, Stripe, Attio, Supabase, Netlify, ClickUp, Miro, Hugging Face and Postman. Sign in to the ones you use."
     }
-  ],
-  "metadata": {
-    "description": "Plugins for Claude Desktop running on Not Diamond Code."
-  }
+  ]
 }

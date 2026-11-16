@@ -20,37 +20,41 @@
       "type": "http",
       "url": "https://mcp.intercom.com/mcp"
     },
-    "monday.com": {
-      "type": "http",
-      "url": "https://mcp.monday.com/mcp"
-    },
-    "Canva": {
-      "type": "http",
-      "url": "https://mcp.canva.com/mcp"
-    },
-    "Figma": {
-      "type": "http",
-      "url": "https://mcp.figma.com/mcp"
-    },
     "PostHog": {
       "type": "http",
       "url": "https://mcp.posthog.com/mcp"
     },
-    "Vercel": {
-      "type": "http",
-      "url": "https://mcp.vercel.com/"
-    },
     "Stripe": {
       "type": "http",
-      "url": "https://mcp.stripe.com/"
+      "url": "https://mcp.stripe.com"
     },
     "Attio": {
       "type": "http",
       "url": "https://mcp.attio.com/mcp"
     },
-    "Cloudflare": {
+    "Supabase": {
       "type": "http",
-      "url": "https://bindings.mcp.cloudflare.com/mcp"
+      "url": "https://mcp.supabase.com/mcp"
+    },
+    "Netlify": {
+      "type": "http",
+      "url": "https://netlify-mcp.netlify.app/mcp"
+    },
+    "ClickUp": {
+      "type": "http",
+      "url": "https://mcp.clickup.com/mcp"
+    },
+    "Miro": {
+      "type": "http",
+      "url": "https://mcp.miro.com/"
+    },
+    "Hugging-Face": {
+      "type": "http",
+      "url": "https://huggingface.co/mcp?login&gradio=none"
+    },
+    "Postman": {
+      "type": "http",
+      "url": "https://mcp.postman.com/minimal"
     }
   }
 }

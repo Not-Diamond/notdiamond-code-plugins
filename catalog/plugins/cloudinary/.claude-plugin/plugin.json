@@ -1,0 +1,8 @@
+{
+  "name": "cloudinary",
+  "version": "1.0.0",
+  "description": "The Cloudinary MCP servers enable you to upload, manage, transform, and analyze your media assets.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

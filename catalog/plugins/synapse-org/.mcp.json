@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Synapse.org": {
+      "type": "http",
+      "url": "https://mcp.synapse.org/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Magic-Patterns": {
+      "type": "http",
+      "url": "https://mcp.magicpatterns.com/mcp"
+    }
+  }
+}

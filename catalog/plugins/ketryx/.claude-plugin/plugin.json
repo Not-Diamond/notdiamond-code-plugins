@@ -1,0 +1,8 @@
+{
+  "name": "ketryx",
+  "version": "1.0.0",
+  "description": "Ketryx MCP gives your AI tools direct access to your unified compliance data. Ask a compliance question and get instant, auditable answers across your entire toolchain: Jira, JAMA, GitHub, TestRail, Polarion, and Azure DevOps.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

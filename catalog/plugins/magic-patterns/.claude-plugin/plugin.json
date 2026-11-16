@@ -1,0 +1,8 @@
+{
+  "name": "magic-patterns",
+  "version": "1.0.0",
+  "description": "Discuss and iterate on Magic Patterns designs directly from Claude. Magic Patterns is an AI agent specialized in frontend design.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

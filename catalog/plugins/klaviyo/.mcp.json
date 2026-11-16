@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Klaviyo": {
+      "type": "http",
+      "url": "https://mcp.klaviyo.com/mcp?include-mcp-app=true"
+    }
+  }
+}

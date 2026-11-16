@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "LILT": {
+      "type": "http",
+      "url": "https://mcp.lilt.com/mcp"
+    }
+  }
+}
