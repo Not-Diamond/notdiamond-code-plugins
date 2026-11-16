@@ -1,0 +1,8 @@
+{
+  "name": "wix",
+  "version": "1.0.0",
+  "description": "The Wix MCP provides users with the ability to manage their account's websites and apps (Stores, Bookings, Blog etc.). In addition, the MCP also helps devs create new sites using Wix Headless, the Wix Design system and more.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

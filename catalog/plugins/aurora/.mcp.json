@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Aurora": {
+      "type": "http",
+      "url": "https://mcp.ai.consilio.com"
+    }
+  }
+}

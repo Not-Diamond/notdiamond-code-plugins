@@ -1,7 +1,7 @@
 {
   "name": "connectors",
-  "version": "1.1.0",
-  "description": "40 hosted connectors, including Linear, Notion, Atlassian, Sentry, Supabase and Microsoft 365. Sign in to the ones you use.",
+  "version": "1.0.0",
+  "description": "Common hosted connectors: Linear, Notion, Atlassian, Sentry, Intercom, PostHog, Stripe, Attio, Supabase, Netlify, ClickUp, Miro, Hugging Face and Postman. Sign in to the ones you use.",
   "author": {
     "name": "Not Diamond"
   }

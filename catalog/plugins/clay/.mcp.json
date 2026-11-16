@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Clay": {
+      "type": "http",
+      "url": "https://api.clay.com/v3/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "AirOps": {
+      "type": "http",
+      "url": "https://app.airops.com/mcp"
+    }
+  }
+}

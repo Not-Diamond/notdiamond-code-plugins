@@ -1,0 +1,8 @@
+{
+  "name": "aurora",
+  "version": "1.0.0",
+  "description": "Aurora is a read-only connector that puts your Consilio engagement, document, and other data at Claude's fingertips. Ask Claude to find a matter by client or alpha-code, list the workspaces inside it, run a full-text search across…",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

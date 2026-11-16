@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Guru": {
+      "type": "http",
+      "url": "https://mcp.api.getguru.com/mcp"
+    }
+  }
+}

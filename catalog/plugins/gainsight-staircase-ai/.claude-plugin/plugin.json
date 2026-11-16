@@ -1,0 +1,8 @@
+{
+  "name": "gainsight-staircase-ai",
+  "version": "1.0.0",
+  "description": "Bring in live customer intelligence from Gainsight's Staircase AI including customer sentiment, risk, engagement and insights - so every answer, insight, and recommendation is grounded in real customer context.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

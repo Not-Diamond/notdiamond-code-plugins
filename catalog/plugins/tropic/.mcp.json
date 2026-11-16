@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Tropic": {
+      "type": "http",
+      "url": "https://app.tropicapp.io/mcp"
+    }
+  }
+}

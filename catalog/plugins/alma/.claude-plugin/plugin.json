@@ -1,0 +1,8 @@
+{
+  "name": "alma",
+  "version": "1.0.0",
+  "description": "Alma is an AI nutrition coach that tracks what you eat, monitors 25+ micronutrients per meal, and scores your diet quality in real time using Harvard's Alternate Healthy Eating Index. Connect Alma to Claude and your full nutrition…",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

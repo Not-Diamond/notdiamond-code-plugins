@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Day-AI": {
+      "type": "http",
+      "url": "https://day.ai/api/mcp"
+    }
+  }
+}

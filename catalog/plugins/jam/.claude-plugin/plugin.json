@@ -1,0 +1,8 @@
+{
+  "name": "jam",
+  "version": "1.0.0",
+  "description": "Jam's MCP is the fast lane between Jam recordings and your dev tools. Drop a Jam link into VS Code, Cursor, Windsurf, or Claude and the whole recording – video, console, network, logs – arrives pre-packaged. No hand-typing repro steps,…",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

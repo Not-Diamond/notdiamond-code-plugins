@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Semrush": {
+      "type": "http",
+      "url": "https://mcp.semrush.com/claude/v1/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "microsoft-365",
+  "version": "1.0.0",
+  "description": "Access SharePoint, OneDrive, Outlook, and Teams directly in Claude. Search and analyze documents across sites and libraries, review email threads and communications, and extract insights from calendar and chat data. Make Microsoft 365 a…",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

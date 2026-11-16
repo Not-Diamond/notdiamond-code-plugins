@@ -1,0 +1,8 @@
+{
+  "name": "planetscale",
+  "version": "1.0.0",
+  "description": "Access to your PlanetScale organizations, databases, branches, schema, and Insights data.",
+  "author": {
+    "name": "Not Diamond"
+  }
+}

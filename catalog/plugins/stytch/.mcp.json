@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Stytch": {
+      "type": "http",
+      "url": "https://mcp.stytch.dev/mcp"
+    }
+  }
+}

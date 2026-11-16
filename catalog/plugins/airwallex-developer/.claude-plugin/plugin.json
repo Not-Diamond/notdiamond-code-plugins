@@ -1,0 +1,8 @@
+{
+  "name": "airwallex-developer",
+  "version": "1.0.0",
+  "description": "The Airwallex Developer Model Context Protocol (MCP) server helps developers to easily integrate with Airwallex capabilities by bringing Airwallex documentation, API references, and sandbox testing tools directly to Claude. Enjoy…",
+  "author": {
+    "name": "Not Diamond"
+  }
+}
