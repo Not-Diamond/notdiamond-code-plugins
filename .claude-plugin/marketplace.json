@@ -1,0 +1,16 @@
+{
+  "name": "notdiamond",
+  "owner": {
+    "name": "Not Diamond"
+  },
+  "plugins": [
+    {
+      "name": "connectors",
+      "source": "./plugins/connectors",
+      "description": "Common hosted connectors: Linear, Notion, Atlassian and others. Sign in to the ones you use."
+    }
+  ],
+  "metadata": {
+    "description": "Plugins for Claude Desktop running on Not Diamond Code."
+  }
+}
